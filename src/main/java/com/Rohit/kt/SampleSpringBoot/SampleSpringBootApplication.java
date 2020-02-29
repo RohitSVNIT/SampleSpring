@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SampleSpringBootApplication {
 
+	// Initial Test Commit
+
 	public static void main(String[] args) {
 		SpringApplication.run(SampleSpringBootApplication.class, args);
 	}
